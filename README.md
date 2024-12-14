@@ -20,4 +20,5 @@ An API key from OpenWeatherMap (or your chosen weather API).
 Contributions are welcome! Please feel free to submit a pull request or open an issue for improvements.
 
 🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Kanhaiya1161/Weather-Forecast/blob/41fe2a33fb41b6c33f46ffc947a0c2668caf5776/LICENSE "View LICENSE") file for details.
+
